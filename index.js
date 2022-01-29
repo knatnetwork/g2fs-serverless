@@ -493,7 +493,7 @@ addEventListener('fetch', event => {
               </div>
   
               <div class="relative pb-full md:flex md:pb-0 md:min-h-screen w-full md:w-1/2">
-                  <div style="background-image: url(https://blog-assets.nova.moe/g2fs.jpg);" class="absolute pin bg-cover bg-no-repeat md:bg-left lg:bg-center">
+                  <div style="background-image: url(https://nova-moe-blog-assets.webp.se/g2fs.jpg);" class="absolute pin bg-cover bg-no-repeat md:bg-left lg:bg-center">
   </div>
               </div>
           </div>
